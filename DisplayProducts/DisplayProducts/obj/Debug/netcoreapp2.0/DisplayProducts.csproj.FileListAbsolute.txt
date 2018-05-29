@@ -1,0 +1,11 @@
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\bin\Debug\netcoreapp2.0\DisplayProducts.deps.json
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\bin\Debug\netcoreapp2.0\DisplayProducts.runtimeconfig.json
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\bin\Debug\netcoreapp2.0\DisplayProducts.runtimeconfig.dev.json
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\bin\Debug\netcoreapp2.0\DisplayProducts.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\obj\Debug\netcoreapp2.0\DisplayProducts.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\obj\Debug\netcoreapp2.0\DisplayProducts.AssemblyInfoInputs.cache
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\obj\Debug\netcoreapp2.0\DisplayProducts.AssemblyInfo.cs
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\bin\Debug\netcoreapp2.0\DisplayProducts.pdb
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\obj\Debug\netcoreapp2.0\DisplayProducts.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\obj\Debug\netcoreapp2.0\DisplayProducts.pdb
+D:\Dotnet Projects\VS2017s\DisplayProducts\DisplayProducts\obj\Debug\netcoreapp2.0\DisplayProducts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.deps.json
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.runtimeconfig.json
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.runtimeconfig.dev.json
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\XUnitTestProducts.pdb
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csprojResolveAssemblyReference.cache
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csproj.CoreCompileInputs.cache
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.AssemblyInfoInputs.cache
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.AssemblyInfo.cs
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.pdb
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\DisplayProducts.dll
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\bin\Debug\netcoreapp2.0\DisplayProducts.pdb
+D:\Dotnet Projects\VS2017s\DisplayProducts\XUnitTestProducts\obj\Debug\netcoreapp2.0\XUnitTestProducts.csproj.CopyComplete
