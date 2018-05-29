@@ -1,2 +1,2 @@
-# Please refer the folder 'DisplayProducts' and attached screenshots.
+# Please refer the folder 'DisplayProducts'.
 
